@@ -1,0 +1,15 @@
+#id {        /* #: id */
+    font-size: 40px;
+    color: darkred;
+}
+.cl1{
+    font-weight: 45px;
+    color: deeppink;
+}
+#ol1{
+    font-size: 30px;
+    color: blue;
+}
+.class{
+    font-style: calc();
+}
